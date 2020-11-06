@@ -13,6 +13,12 @@
             "name": "com.oculus.vrshell",
             "processId": 2781,
             "exited": false
+        },
+        {
+            "deviceId": "1WMHH8261Q0376",
+            "name": "com.oculus.xrstreamingclient",
+            "processId": 13433,
+            "exited": false
         }
     ],
     "m_Tags": {
